@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "895414322508",
+    "firebase_url": "https://vehiclemanager-82593.firebaseio.com",
+    "project_id": "vehiclemanager-82593",
+    "storage_bucket": "vehiclemanager-82593.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895414322508:android:97ec186486a054f0",
+        "android_client_info": {
+          "package_name": "driverapp.vehiclemanager.com.vehiclemanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895414322508-h3fe9ojplpndrtvbf7va42ge5ai3h560.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGsRwNEPBjvHBa-pFK85XfsuPdTLWbCCE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
